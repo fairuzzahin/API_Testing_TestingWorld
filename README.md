@@ -35,7 +35,7 @@ npm install -g newman-reporter-htmlextra
 ## API Documentation:
 - https://documenter.getpostman.com/view/13082503/2s93Xwz4Az
 
-## Test case list:
+## Test Case list:
 1. ### Get Student
 	> Get Student Data Sets from the database.
 
@@ -71,6 +71,9 @@ npm install -g newman-reporter-htmlextra
 	14. > Mobile
 
 ## Newman Report Summary:
-![Newman Report Summary](file:///D:/All%20course/SQA%20Course/API%20testing/API%20Testing2/newman/FAIRUZ_ZAHIN_SNEHA-2023-09-04-16-24-44-227-0.html)
+![Newman Report Summary](https://user-images.githubusercontent.com/70250199/232209683-ddb8e3c5-4f23-4355-8919-61cd6ddca91a.png)
+
+![Newman Report Summary](https://user-images.githubusercontent.com/70250199/232209794-f84c539b-e3cf-4e80-ab0e-9d6d59b1a339.png)
+
 
 
