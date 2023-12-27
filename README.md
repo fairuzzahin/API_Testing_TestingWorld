@@ -71,8 +71,7 @@ npm install -g newman-reporter-htmlextra
 	14. > Mobile
 
 ## Newman Report Summary:
-![Newman Report Summary](![screencapture-file-D-All-course-SQA-Course-API-testing-API-Testing2-newman-FAIRUZ-ZAHIN-SNEHA-2023-09-04-16-24-44-227-0-html-2023-12-28-00_28_31](https://github.com/fairuzzahin/API_Testing_TestingWorld/assets/87386589/34e602cc-3769-465e-a692-1b367fa77713)
-)
+![Newman Report Summary](![Capture](https://github.com/fairuzzahin/API_Testing_TestingWorld/assets/87386589/a460770e-08e3-4a21-9cdb-22ddfc8ba405))
 
 ![Newman Report Summary](https://user-images.githubusercontent.com/70250199/232209794-f84c539b-e3cf-4e80-ab0e-9d6d59b1a339.png)
 
